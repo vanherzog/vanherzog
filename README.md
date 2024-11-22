@@ -2,10 +2,6 @@
 
 ## 👨‍💻 About Me
 
-Here's a shorter version of the text with an added list for your projects and bolded highlights:
-
----
-
 🚀 **Co-Founder of SparMahl** | **AI & Data Science Specialist** | **Part-time Freelancer** 🖥️
 
 With a passion for AI and data science, I specialize in building data-driven models, automating workflows, and fine-tuning **machine learning** systems. As a co-founder of **SparMahl**, I help revolutionize grocery savings by using AI to recommend the best local deals.
